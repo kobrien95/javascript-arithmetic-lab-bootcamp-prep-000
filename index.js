@@ -14,5 +14,5 @@ function inc(a,b){
   return n += 1;
 }
 function dec(a,b){
-  return d += 
+  return d -= 1;
 }
